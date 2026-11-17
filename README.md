@@ -22,6 +22,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/aryansharma2007ar-ctrl/LeetCode_Aryan_Sharma/tree/main/0013-roman-to-integer/) | Easy |
+| [0020-valid-parentheses](https://github.com/aryansharma2007ar-ctrl/LeetCode_Aryan_Sharma/tree/main/0020-valid-parentheses/) | Easy |
 | [0065-valid-number](https://github.com/aryansharma2007ar-ctrl/LeetCode_Aryan_Sharma/tree/main/0065-valid-number/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -43,4 +44,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/aryansharma2007ar-ctrl/LeetCode_Aryan_Sharma/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/aryansharma2007ar-ctrl/LeetCode_Aryan_Sharma/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/aryansharma2007ar-ctrl/LeetCode_Aryan_Sharma/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
