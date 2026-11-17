@@ -7,12 +7,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/aryansharma2007ar-ctrl/LeetCode_Aryan_Sharma/tree/main/0001-two-sum/) | Easy |
+| [0041-first-missing-positive](https://github.com/aryansharma2007ar-ctrl/LeetCode_Aryan_Sharma/tree/main/0041-first-missing-positive/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/aryansharma2007ar-ctrl/LeetCode_Aryan_Sharma/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/aryansharma2007ar-ctrl/LeetCode_Aryan_Sharma/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/aryansharma2007ar-ctrl/LeetCode_Aryan_Sharma/tree/main/0013-roman-to-integer/) | Easy |
+| [0041-first-missing-positive](https://github.com/aryansharma2007ar-ctrl/LeetCode_Aryan_Sharma/tree/main/0041-first-missing-positive/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
