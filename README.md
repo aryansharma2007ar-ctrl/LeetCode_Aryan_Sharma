@@ -12,13 +12,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/aryansharma2007ar-ctrl/LeetCode_Aryan_Sharma/tree/main/0001-two-sum/) | Easy |
+| [0013-roman-to-integer](https://github.com/aryansharma2007ar-ctrl/LeetCode_Aryan_Sharma/tree/main/0013-roman-to-integer/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/aryansharma2007ar-ctrl/LeetCode_Aryan_Sharma/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/aryansharma2007ar-ctrl/LeetCode_Aryan_Sharma/tree/main/0013-roman-to-integer/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/aryansharma2007ar-ctrl/LeetCode_Aryan_Sharma/tree/main/0013-roman-to-integer/) | Easy |
 | [0065-valid-number](https://github.com/aryansharma2007ar-ctrl/LeetCode_Aryan_Sharma/tree/main/0065-valid-number/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
