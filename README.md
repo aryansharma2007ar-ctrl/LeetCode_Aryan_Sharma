@@ -21,6 +21,7 @@
 | [0007-reverse-integer](https://github.com/aryansharma2007ar-ctrl/LeetCode_Aryan_Sharma/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/aryansharma2007ar-ctrl/LeetCode_Aryan_Sharma/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/aryansharma2007ar-ctrl/LeetCode_Aryan_Sharma/tree/main/0013-roman-to-integer/) | Easy |
+| [0050-powx-n](https://github.com/aryansharma2007ar-ctrl/LeetCode_Aryan_Sharma/tree/main/0050-powx-n/) | Medium |
 | [0412-fizz-buzz](https://github.com/aryansharma2007ar-ctrl/LeetCode_Aryan_Sharma/tree/main/0412-fizz-buzz/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -61,4 +62,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/aryansharma2007ar-ctrl/LeetCode_Aryan_Sharma/tree/main/0412-fizz-buzz/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/aryansharma2007ar-ctrl/LeetCode_Aryan_Sharma/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
