@@ -21,12 +21,14 @@
 | [0007-reverse-integer](https://github.com/aryansharma2007ar-ctrl/LeetCode_Aryan_Sharma/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/aryansharma2007ar-ctrl/LeetCode_Aryan_Sharma/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/aryansharma2007ar-ctrl/LeetCode_Aryan_Sharma/tree/main/0013-roman-to-integer/) | Easy |
+| [0412-fizz-buzz](https://github.com/aryansharma2007ar-ctrl/LeetCode_Aryan_Sharma/tree/main/0412-fizz-buzz/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/aryansharma2007ar-ctrl/LeetCode_Aryan_Sharma/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/aryansharma2007ar-ctrl/LeetCode_Aryan_Sharma/tree/main/0020-valid-parentheses/) | Easy |
 | [0065-valid-number](https://github.com/aryansharma2007ar-ctrl/LeetCode_Aryan_Sharma/tree/main/0065-valid-number/) | Hard |
+| [0412-fizz-buzz](https://github.com/aryansharma2007ar-ctrl/LeetCode_Aryan_Sharma/tree/main/0412-fizz-buzz/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,4 +57,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/aryansharma2007ar-ctrl/LeetCode_Aryan_Sharma/tree/main/0020-valid-parentheses/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/aryansharma2007ar-ctrl/LeetCode_Aryan_Sharma/tree/main/0412-fizz-buzz/) | Easy |
 <!---LeetCode Topics End-->
