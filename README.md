@@ -11,6 +11,7 @@
 | [0287-find-the-duplicate-number](https://github.com/aryansharma2007ar-ctrl/LeetCode_Aryan_Sharma/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aryansharma2007ar-ctrl/LeetCode_Aryan_Sharma/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/aryansharma2007ar-ctrl/LeetCode_Aryan_Sharma/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/aryansharma2007ar-ctrl/LeetCode_Aryan_Sharma/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,6 +36,7 @@
 | [0020-valid-parentheses](https://github.com/aryansharma2007ar-ctrl/LeetCode_Aryan_Sharma/tree/main/0020-valid-parentheses/) | Easy |
 | [0065-valid-number](https://github.com/aryansharma2007ar-ctrl/LeetCode_Aryan_Sharma/tree/main/0065-valid-number/) | Hard |
 | [0412-fizz-buzz](https://github.com/aryansharma2007ar-ctrl/LeetCode_Aryan_Sharma/tree/main/0412-fizz-buzz/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/aryansharma2007ar-ctrl/LeetCode_Aryan_Sharma/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
