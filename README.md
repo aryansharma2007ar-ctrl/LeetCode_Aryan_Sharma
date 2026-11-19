@@ -26,6 +26,7 @@
 | [0050-powx-n](https://github.com/aryansharma2007ar-ctrl/LeetCode_Aryan_Sharma/tree/main/0050-powx-n/) | Medium |
 | [0412-fizz-buzz](https://github.com/aryansharma2007ar-ctrl/LeetCode_Aryan_Sharma/tree/main/0412-fizz-buzz/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aryansharma2007ar-ctrl/LeetCode_Aryan_Sharma/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [2235-add-two-integers](https://github.com/aryansharma2007ar-ctrl/LeetCode_Aryan_Sharma/tree/main/2235-add-two-integers/) | Easy |
 | [2469-convert-the-temperature](https://github.com/aryansharma2007ar-ctrl/LeetCode_Aryan_Sharma/tree/main/2469-convert-the-temperature/) | Easy |
 ## String
 | Problem Name | Difficulty |
